@@ -101,7 +101,7 @@ const Journey = () => {
 
   return (
     <div className="space-y-6">
-      <h1 className="text-2xl font-bold dark:text-white">My Journey</h1>
+      <h1 className="text-2xl font-bold dark:text-blue-500">My Journey</h1>
 
       <div className="grid gap-4 md:grid-cols-3">
         <StatCard title="Total logs" value={entries.length} />

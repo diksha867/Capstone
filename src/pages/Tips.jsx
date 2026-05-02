@@ -52,7 +52,7 @@ const Tips = () => {
 
   return (
     <div className="space-y-5">
-      <h1 className="text-2xl font-bold dark:text-white">Self-Care Tips</h1>
+      <h1 className="text-2xl font-bold dark:text-blue-500">Self-Care Tips</h1>
 
       <div className="rounded-xl bg-purple-700 p-4 text-white">
         <p className="text-sm font-semibold text-white">Wellness tip of the moment</p>
